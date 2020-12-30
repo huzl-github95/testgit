@@ -28,5 +28,9 @@ this.testDaoImpl.login();
 }
 
 
+add  func2
+public void login2(){
+this.testDaoImpl.login();
+}
 
 }
