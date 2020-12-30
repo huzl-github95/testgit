@@ -32,5 +32,7 @@ public void login1(){
 this.testDaoImpl.login();
 }
 
+add  func3
+
 
 }
