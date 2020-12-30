@@ -2,4 +2,5 @@
 aaaaaaa
 分支1 方法。
 分支1 功能2
-edit by user2
+edit by user1;
+edit by user2；
