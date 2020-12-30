@@ -21,7 +21,7 @@ private TestDaoImpl testDaoImpl;
 public void regist(){
 this.testDaoImpl.saveUser();
 }
-
+add func5;
 
 public void login(){
 this.testDaoImpl.login();
