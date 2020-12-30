@@ -13,6 +13,7 @@ add  func2 aaaa
 @Transactional(readOnly=false)
 public class TestServiceImpl {
 
+add func4;
 
 @Resource
 private TestDaoImpl testDaoImpl;
