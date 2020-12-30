@@ -27,10 +27,10 @@ public void login(){
 this.testDaoImpl.login();
 }
 
-add  func1
-public void login1(){
+
+
+add  func3
+public void login3(){
 this.testDaoImpl.login();
 }
-
-
 }
